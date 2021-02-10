@@ -1,0 +1,6 @@
+classes= 2
+train=./face_mask_train_file_simple.txt
+valid=./face_mask_val_file_simple.txt
+names=./data/face_mask.names
+backup=backup/
+eval=face_mask
